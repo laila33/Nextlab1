@@ -14,6 +14,9 @@ const NavigationBar = () => {
             <Nav.Link as={Link} href="/contact">Contact</Nav.Link>
             <Nav.Link as={Link} href="/products">Products</Nav.Link>
             <Nav.Link as={Link} href="/products/details">Product Details</Nav.Link>
+            <Nav.Link as={Link} href="/products/client">Client Products</Nav.Link>
+            <Nav.Link as={Link} href="/products/server">Server Products</Nav.Link>
+            <Nav.Link as={Link} href="/products/static">Static Products</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

@@ -5,7 +5,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About - Static Route</title>
+        <title>About Static Route</title>
         <meta name="description" content="About page" />
       </Head>
       <NavigationBar />

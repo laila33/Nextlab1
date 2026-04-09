@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Contact - Static Route</title>
+        <title>Contact Static Route</title>
         <meta name="description" content="Contact page" />
       </Head>
       <NavigationBar />
